@@ -24,12 +24,12 @@ It's worthy of mention that the code uses libraries like `windows.h` which is on
 When your environment is ready, either clone the repo or download it as a zip file. Now you can either run the code manually through opening the `pacman.cpp` file or just run the ‍‍‍‍‍‍‍‍‍‍‍‍‍‍`pacpac.exe` file. **Be Careful** that the GUI is designed using Unicode characters, so use an appropriate terminal that shows them correctly (something like Msys2 or the built-in terminal of *VScode* worked for me).
  
 ## Resources
-[BFS algorithm](https://www.youtube.com/watch?v=KiCBXu4P-2Y)
-[Maze generation](https://www.youtube.com/watch?v=Y37-gB83HKE)
-[Understanding Ghosts behavior](https://gameinternals.com/understanding-pac-man-ghost-behavior)
-[Some inspirations](https://www.youtube.com/watch?v=vC0d1rDmPBs)
+[BFS algorithm](https://www.youtube.com/watch?v=KiCBXu4P-2Y)<br>
+[Maze generation](https://www.youtube.com/watch?v=Y37-gB83HKE)<br>
+[Understanding Ghosts behavior](https://gameinternals.com/understanding-pac-man-ghost-behavior)<br>
+[Some inspirations](https://www.youtube.com/watch?v=vC0d1rDmPBs)<br>
 [Noto Sans Canadian Aboriginal Font](https://fonts.google.com/noto/specimen/Noto+Sans+Canadian+Aboriginal)
 ## Credits
 Course Instructor: [Dr. Kheradpisheh](https://www.linkedin.com/in/saeed-reza-kheradpisheh-7a0b18155/) <br>
-Project Mentor: [Mobin Nesari](https://www.linkedin.com/in/mobin-nesari/)
+Project Mentor: [Mobin Nesari](https://www.linkedin.com/in/mobin-nesari/)<br>
 My teammate: [Farid Karimi](https://www.linkedin.com/in/farid-kmi/)
