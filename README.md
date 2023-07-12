@@ -17,7 +17,8 @@ So to conclude, only the red ghost -*Blinky*- tracks the exact position of Pac-M
 All the visuals are either ASCII art that were either drawn or copied from google and changed a bit to suit the rest of the game.
 I shall mention that the Unicode used is *Noto Sans Canadian Aboriginal*.
 ### Saving Data
-The 3 files `scoreBorad.txt`, `maze.txt` and `creature.txt` are used to store the data of the game. `scoreBorad.txt` stores the 10 highest records of players, `maze.txt` and `creature.txt` are used as checkpoints, so you can save your progress and continue playing later!
+The 3 files `scoreBorad.txt`, `maze.txt` and `creature.txt` are used to store the data of the game. `scoreBorad.txt` stores the 10 highest records of players, `maze.txt` and `creature.txt` are used as checkpoints, so you can save your progress and continue playing later!<br>
+It shall be pointed out that the code checks whether these files exist, if not, it creates them. So the program will run fine if the files get deleted, the only thing that happens is that there won't be any pre-loaded data.
 
 ## How To Run The Code
 It's worthy of mention that the code uses libraries like `windows.h` which is only available in *Windows* operating system, so be sure to run the code on an appropriate device.
