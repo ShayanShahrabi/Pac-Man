@@ -33,4 +33,3 @@ When your environment is ready, either clone the repo or download it as a zip fi
 ## Credits
 Course Instructor: [Dr. Kheradpisheh](https://www.linkedin.com/in/saeed-reza-kheradpisheh-7a0b18155/) <br>
 Project Mentor: [Mobin Nesari](https://www.linkedin.com/in/mobin-nesari/)<br>
-My teammate: [Farid Karimi](https://www.linkedin.com/in/farid-kmi/)
